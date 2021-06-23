@@ -17,12 +17,3 @@ Task 2: Find all the movies which had more than 10 user reviews and an average r
 <img width="572" alt="Screen Shot 2021-06-23 at 8 18 48 PM" src="https://user-images.githubusercontent.com/32781544/123133016-2de6f300-d404-11eb-8dd1-51c5c572c0d7.png">
 
 <img width="555" alt="Screen Shot 2021-06-23 at 8 18 47 PM" src="https://user-images.githubusercontent.com/32781544/123132967-24f62180-d404-11eb-84c8-a4afa33d8d59.png">
-
-## Results
-
-<img width="541" alt="Screen Shot 2021-06-23 at 8 21 05 PM" src="https://user-images.githubusercontent.com/32781544/123133395-8b7b3f80-d404-11eb-89e7-69bbad37f4dc.png">
-<img width="331" alt="Screen Shot 2021-06-23 at 8 21 13 PM" src="https://user-images.githubusercontent.com/32781544/123133418-903ff380-d404-11eb-9116-dde2dff1e4c5.png">
-<img width="542" alt="Screen Shot 2021-06-23 at 8 21 12 PM" src="https://user-images.githubusercontent.com/32781544/123133403-8d450300-d404-11eb-8eb6-34de03582b3c.png">
-<img width="544" alt="Screen Shot 2021-06-23 at 8 21 17 PM" src="https://user-images.githubusercontent.com/32781544/123133437-92a24d80-d404-11eb-82c0-326b5e534776.png">
-<img width="537" alt="Screen Shot 2021-06-23 at 8 21 18 PM" src="https://user-images.githubusercontent.com/32781544/123133450-9635d480-d404-11eb-890b-7e3a4214b053.png">
-
